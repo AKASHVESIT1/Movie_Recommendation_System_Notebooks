@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System (Jupyter Notebooks Only)
+# 🎬 Movie Recommendation System
 
 This project demonstrates two basic approaches to building a movie recommendation system using the **TMDB dataset**:
 
